@@ -18,4 +18,7 @@
 | **🐞 Fix** | 풀이가 틀려서 수정했거나 예외 케이스를 처리했을 때 | `Fix: [Baekjoon] 1001: A-B (반례 수정)` |
 | **📝 Docs** | 문제 풀이에 대한 설명이나 README를 수정했을 때 | `Docs: [LeetCode] 1: Two Sum (풀이 접근 방식 추가)` |
 
+# TODO
+- README 파일을 생성해주는 코드 작성
+
 https://wikidocs.net/book/5895
