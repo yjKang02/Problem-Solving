@@ -29,3 +29,14 @@ def GCD(a: int, b: int):
 ```
 ```python
 lcm = a * b // gcd
+```
+
+### 📝 추가 내용
+- math 함수에 최대공약수, 최소공배수를 구하는 함수가 있습니다.
+```python
+import math
+
+a, b = 36, 12
+gcd = math.gcd(a, b)
+lcm = math.lcm(a, b) # python 3.9 이상
+```
